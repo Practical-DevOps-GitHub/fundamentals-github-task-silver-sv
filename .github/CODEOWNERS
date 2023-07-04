@@ -1,0 +1,2 @@
+online-marathon
+@obj.file_branch('CODEOWNERS', 'main') || @obj.file_branch('.github/CODEOWNERS', 'main') 
